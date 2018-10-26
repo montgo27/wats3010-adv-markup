@@ -1,9 +1,18 @@
 /* Styles for the Advanced Markup assignment. */
+
+}
+nav ul li {
+    display:inline;
+    border: solid; 1px black;
+    padding: 5px
+}
+.active {
+    font-weight:900;
+    background: #cccccc;
+    padding: 5px
+}
 .poem {
     list-style-type:none;
     padding-left: 0;
     line-height: 2;
-}
-sidebar {
-    float:right;
 }
