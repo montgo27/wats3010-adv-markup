@@ -1,5 +1,5 @@
 /* Styles for the Advanced Markup assignment. */
-
+/* Navigation Styles */
 }
 nav ul li {
     display:inline;
@@ -9,10 +9,16 @@ nav ul li {
 .active {
     font-weight:900;
     background: #cccccc;
-    padding: 5px
+    padding: 5px;
 }
+
+/*Content Styles*/
 .poem {
     list-style-type:none;
     padding-left: 0;
     line-height: 2;
+}
+table{
+    width:100%;
+    text-align:left;
 }
