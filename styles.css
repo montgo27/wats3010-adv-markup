@@ -3,7 +3,7 @@
 }
 nav ul li {
     display:inline;
-    border: solid; 1px black;
+    border: solid 1px black;
     padding: 5px
 }
 .active {
@@ -21,4 +21,11 @@ nav ul li {
 table{
     width:100%;
     text-align:left;
+}
+#sidebar{
+    float: right;
+    width: 25%;
+    margin: 20px;
+    padding: 10px
+    border: solid 2px black;
 }
