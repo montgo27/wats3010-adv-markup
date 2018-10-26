@@ -29,3 +29,6 @@ table{
     padding: 10px
     border: solid 2px black;
 }
+dt{
+    font-weight:900;
+}
