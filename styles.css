@@ -1,1 +1,6 @@
 /* Styles for the Advanced Markup assignment. */
+.poem {
+    list-style-type:none;
+    padding-left: 0;
+    line-height: 2;
+}
