@@ -32,3 +32,14 @@ table{
 dt{
     font-weight:900;
 }
+.bio-photo{
+    width:25%;
+    float:left;
+    background:#cccccc;
+    margin:10px;
+    padding: 5px;
+}
+.bio-photo img{
+    width:100%;
+    height:auto;
+}
